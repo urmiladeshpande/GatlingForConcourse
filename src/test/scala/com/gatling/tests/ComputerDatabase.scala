@@ -1,6 +1,6 @@
 package com.gatling.tests
 
-import Helper.throttleLoad
+//import Helper.throttleLoad
 
 import scala.concurrent.duration._
 import io.gatling.core.Predef.{holdFor, _}
