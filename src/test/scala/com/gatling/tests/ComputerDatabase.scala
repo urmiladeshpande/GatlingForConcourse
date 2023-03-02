@@ -2,10 +2,10 @@ package com.gatling.tests
 
 import Helper.throttleLoad
 
-import scala.concurrent.duration.*
-import io.gatling.core.Predef.{holdFor, *}
-import io.gatling.http.Predef.*
-import io.gatling.jdbc.Predef.*
+import scala.concurrent.duration._
+import io.gatling.core.Predef.{holdFor, _}
+import io.gatling.http.Predef._
+import io.gatling.jdbc.Predef._
 
 class ComputerDatabase  extends Simulation{
 
